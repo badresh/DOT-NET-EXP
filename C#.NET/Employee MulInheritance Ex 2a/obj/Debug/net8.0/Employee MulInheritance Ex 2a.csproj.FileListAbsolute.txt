@@ -1,0 +1,14 @@
+C:\Users\badvi\source\repos\Employee MulInheritance Ex 2a\obj\Debug\net8.0\Employee MulInheritance Ex 2a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badvi\source\repos\Employee MulInheritance Ex 2a\obj\Debug\net8.0\Employee MulInheritance Ex 2a.AssemblyInfoInputs.cache
+C:\Users\badvi\source\repos\Employee MulInheritance Ex 2a\obj\Debug\net8.0\Employee MulInheritance Ex 2a.AssemblyInfo.cs
+C:\Users\badvi\source\repos\Employee MulInheritance Ex 2a\obj\Debug\net8.0\Employee MulInheritance Ex 2a.csproj.CoreCompileInputs.cache
+C:\Users\badvi\source\repos\Employee MulInheritance Ex 2a\bin\Debug\net8.0\Employee MulInheritance Ex 2a.exe
+C:\Users\badvi\source\repos\Employee MulInheritance Ex 2a\bin\Debug\net8.0\Employee MulInheritance Ex 2a.deps.json
+C:\Users\badvi\source\repos\Employee MulInheritance Ex 2a\bin\Debug\net8.0\Employee MulInheritance Ex 2a.runtimeconfig.json
+C:\Users\badvi\source\repos\Employee MulInheritance Ex 2a\bin\Debug\net8.0\Employee MulInheritance Ex 2a.dll
+C:\Users\badvi\source\repos\Employee MulInheritance Ex 2a\bin\Debug\net8.0\Employee MulInheritance Ex 2a.pdb
+C:\Users\badvi\source\repos\Employee MulInheritance Ex 2a\obj\Debug\net8.0\Employee MulInheritance Ex 2a.dll
+C:\Users\badvi\source\repos\Employee MulInheritance Ex 2a\obj\Debug\net8.0\refint\Employee MulInheritance Ex 2a.dll
+C:\Users\badvi\source\repos\Employee MulInheritance Ex 2a\obj\Debug\net8.0\Employee MulInheritance Ex 2a.pdb
+C:\Users\badvi\source\repos\Employee MulInheritance Ex 2a\obj\Debug\net8.0\Employee MulInheritance Ex 2a.genruntimeconfig.cache
+C:\Users\badvi\source\repos\Employee MulInheritance Ex 2a\obj\Debug\net8.0\ref\Employee MulInheritance Ex 2a.dll
