@@ -1,0 +1,12 @@
+C:\Users\badvi\source\repos\FileHandling Ex 6\bin\Debug\FileHandling Ex 6.exe.config
+C:\Users\badvi\source\repos\FileHandling Ex 6\bin\Debug\FileHandling Ex 6.exe
+C:\Users\badvi\source\repos\FileHandling Ex 6\bin\Debug\FileHandling Ex 6.pdb
+C:\Users\badvi\source\repos\FileHandling Ex 6\bin\Debug\FileHandling Ex 6.xml
+C:\Users\badvi\source\repos\FileHandling Ex 6\obj\Debug\FileHandling Ex 6.vbproj.AssemblyReference.cache
+C:\Users\badvi\source\repos\FileHandling Ex 6\obj\Debug\FileHandling_Ex_6.Form1.resources
+C:\Users\badvi\source\repos\FileHandling Ex 6\obj\Debug\FileHandling_Ex_6.Resources.resources
+C:\Users\badvi\source\repos\FileHandling Ex 6\obj\Debug\FileHandling Ex 6.vbproj.GenerateResource.cache
+C:\Users\badvi\source\repos\FileHandling Ex 6\obj\Debug\FileHandling Ex 6.vbproj.CoreCompileInputs.cache
+C:\Users\badvi\source\repos\FileHandling Ex 6\obj\Debug\FileHandling Ex 6.exe
+C:\Users\badvi\source\repos\FileHandling Ex 6\obj\Debug\FileHandling Ex 6.xml
+C:\Users\badvi\source\repos\FileHandling Ex 6\obj\Debug\FileHandling Ex 6.pdb
