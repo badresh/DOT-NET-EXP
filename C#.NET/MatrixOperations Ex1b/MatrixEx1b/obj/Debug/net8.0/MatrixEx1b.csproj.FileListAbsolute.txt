@@ -1,0 +1,14 @@
+C:\Users\badvi\source\repos\MatrixEx1b\bin\Debug\net8.0\MatrixEx1b.exe
+C:\Users\badvi\source\repos\MatrixEx1b\bin\Debug\net8.0\MatrixEx1b.deps.json
+C:\Users\badvi\source\repos\MatrixEx1b\bin\Debug\net8.0\MatrixEx1b.runtimeconfig.json
+C:\Users\badvi\source\repos\MatrixEx1b\bin\Debug\net8.0\MatrixEx1b.dll
+C:\Users\badvi\source\repos\MatrixEx1b\bin\Debug\net8.0\MatrixEx1b.pdb
+C:\Users\badvi\source\repos\MatrixEx1b\obj\Debug\net8.0\MatrixEx1b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badvi\source\repos\MatrixEx1b\obj\Debug\net8.0\MatrixEx1b.AssemblyInfoInputs.cache
+C:\Users\badvi\source\repos\MatrixEx1b\obj\Debug\net8.0\MatrixEx1b.AssemblyInfo.cs
+C:\Users\badvi\source\repos\MatrixEx1b\obj\Debug\net8.0\MatrixEx1b.csproj.CoreCompileInputs.cache
+C:\Users\badvi\source\repos\MatrixEx1b\obj\Debug\net8.0\MatrixEx1b.dll
+C:\Users\badvi\source\repos\MatrixEx1b\obj\Debug\net8.0\refint\MatrixEx1b.dll
+C:\Users\badvi\source\repos\MatrixEx1b\obj\Debug\net8.0\MatrixEx1b.pdb
+C:\Users\badvi\source\repos\MatrixEx1b\obj\Debug\net8.0\MatrixEx1b.genruntimeconfig.cache
+C:\Users\badvi\source\repos\MatrixEx1b\obj\Debug\net8.0\ref\MatrixEx1b.dll
