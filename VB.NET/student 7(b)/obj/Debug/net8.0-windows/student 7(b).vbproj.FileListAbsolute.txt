@@ -1,0 +1,48 @@
+C:\Users\DELL\source\repos\student 7(b)\bin\Debug\net8.0-windows\student 7(b).exe
+C:\Users\DELL\source\repos\student 7(b)\bin\Debug\net8.0-windows\student 7(b).deps.json
+C:\Users\DELL\source\repos\student 7(b)\bin\Debug\net8.0-windows\student 7(b).runtimeconfig.json
+C:\Users\DELL\source\repos\student 7(b)\bin\Debug\net8.0-windows\student 7(b).dll
+C:\Users\DELL\source\repos\student 7(b)\bin\Debug\net8.0-windows\student 7(b).pdb
+C:\Users\DELL\source\repos\student 7(b)\obj\Debug\net8.0-windows\student_7_b_.Form1.resources
+C:\Users\DELL\source\repos\student 7(b)\obj\Debug\net8.0-windows\student 7(b).vbproj.GenerateResource.cache
+C:\Users\DELL\source\repos\student 7(b)\obj\Debug\net8.0-windows\student 7(b).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\student 7(b)\obj\Debug\net8.0-windows\student 7(b).AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\student 7(b)\obj\Debug\net8.0-windows\student 7(b).AssemblyInfo.vb
+C:\Users\DELL\source\repos\student 7(b)\obj\Debug\net8.0-windows\student 7(b).vbproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\student 7(b)\obj\Debug\net8.0-windows\student 7(b).dll
+C:\Users\DELL\source\repos\student 7(b)\obj\Debug\net8.0-windows\refint\student 7(b).dll
+C:\Users\DELL\source\repos\student 7(b)\obj\Debug\net8.0-windows\student 7(b).pdb
+C:\Users\DELL\source\repos\student 7(b)\obj\Debug\net8.0-windows\student 7(b).genruntimeconfig.cache
+C:\Users\DELL\source\repos\student 7(b)\obj\Debug\net8.0-windows\ref\student 7(b).dll
+C:\Users\badvi\source\repos\student 7(b)\student 7(b)\bin\Debug\net8.0-windows\student 7(b).exe
+C:\Users\badvi\source\repos\student 7(b)\student 7(b)\bin\Debug\net8.0-windows\student 7(b).deps.json
+C:\Users\badvi\source\repos\student 7(b)\student 7(b)\bin\Debug\net8.0-windows\student 7(b).runtimeconfig.json
+C:\Users\badvi\source\repos\student 7(b)\student 7(b)\bin\Debug\net8.0-windows\student 7(b).dll
+C:\Users\badvi\source\repos\student 7(b)\student 7(b)\bin\Debug\net8.0-windows\student 7(b).pdb
+C:\Users\badvi\source\repos\student 7(b)\student 7(b)\obj\Debug\net8.0-windows\student_7_b_.Form1.resources
+C:\Users\badvi\source\repos\student 7(b)\student 7(b)\obj\Debug\net8.0-windows\student 7(b).vbproj.GenerateResource.cache
+C:\Users\badvi\source\repos\student 7(b)\student 7(b)\obj\Debug\net8.0-windows\student 7(b).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badvi\source\repos\student 7(b)\student 7(b)\obj\Debug\net8.0-windows\student 7(b).AssemblyInfoInputs.cache
+C:\Users\badvi\source\repos\student 7(b)\student 7(b)\obj\Debug\net8.0-windows\student 7(b).AssemblyInfo.vb
+C:\Users\badvi\source\repos\student 7(b)\student 7(b)\obj\Debug\net8.0-windows\student 7(b).vbproj.CoreCompileInputs.cache
+C:\Users\badvi\source\repos\student 7(b)\student 7(b)\obj\Debug\net8.0-windows\student 7(b).dll
+C:\Users\badvi\source\repos\student 7(b)\student 7(b)\obj\Debug\net8.0-windows\refint\student 7(b).dll
+C:\Users\badvi\source\repos\student 7(b)\student 7(b)\obj\Debug\net8.0-windows\student 7(b).pdb
+C:\Users\badvi\source\repos\student 7(b)\student 7(b)\obj\Debug\net8.0-windows\student 7(b).genruntimeconfig.cache
+C:\Users\badvi\source\repos\student 7(b)\student 7(b)\obj\Debug\net8.0-windows\ref\student 7(b).dll
+C:\Users\badvi\source\repos\student 7(b)\bin\Debug\net8.0-windows\student 7(b).exe
+C:\Users\badvi\source\repos\student 7(b)\bin\Debug\net8.0-windows\student 7(b).deps.json
+C:\Users\badvi\source\repos\student 7(b)\bin\Debug\net8.0-windows\student 7(b).runtimeconfig.json
+C:\Users\badvi\source\repos\student 7(b)\bin\Debug\net8.0-windows\student 7(b).dll
+C:\Users\badvi\source\repos\student 7(b)\bin\Debug\net8.0-windows\student 7(b).pdb
+C:\Users\badvi\source\repos\student 7(b)\obj\Debug\net8.0-windows\student_7_b_.Form1.resources
+C:\Users\badvi\source\repos\student 7(b)\obj\Debug\net8.0-windows\student 7(b).vbproj.GenerateResource.cache
+C:\Users\badvi\source\repos\student 7(b)\obj\Debug\net8.0-windows\student 7(b).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badvi\source\repos\student 7(b)\obj\Debug\net8.0-windows\student 7(b).AssemblyInfoInputs.cache
+C:\Users\badvi\source\repos\student 7(b)\obj\Debug\net8.0-windows\student 7(b).AssemblyInfo.vb
+C:\Users\badvi\source\repos\student 7(b)\obj\Debug\net8.0-windows\student 7(b).vbproj.CoreCompileInputs.cache
+C:\Users\badvi\source\repos\student 7(b)\obj\Debug\net8.0-windows\student 7(b).dll
+C:\Users\badvi\source\repos\student 7(b)\obj\Debug\net8.0-windows\refint\student 7(b).dll
+C:\Users\badvi\source\repos\student 7(b)\obj\Debug\net8.0-windows\student 7(b).pdb
+C:\Users\badvi\source\repos\student 7(b)\obj\Debug\net8.0-windows\student 7(b).genruntimeconfig.cache
+C:\Users\badvi\source\repos\student 7(b)\obj\Debug\net8.0-windows\ref\student 7(b).dll

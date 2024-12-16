@@ -1,0 +1,48 @@
+C:\Users\DELL\source\repos\voter 7a\bin\Debug\net8.0-windows\voter 7a.exe
+C:\Users\DELL\source\repos\voter 7a\bin\Debug\net8.0-windows\voter 7a.deps.json
+C:\Users\DELL\source\repos\voter 7a\bin\Debug\net8.0-windows\voter 7a.runtimeconfig.json
+C:\Users\DELL\source\repos\voter 7a\bin\Debug\net8.0-windows\voter 7a.dll
+C:\Users\DELL\source\repos\voter 7a\bin\Debug\net8.0-windows\voter 7a.pdb
+C:\Users\DELL\source\repos\voter 7a\obj\Debug\net8.0-windows\voter_7a.Form1.resources
+C:\Users\DELL\source\repos\voter 7a\obj\Debug\net8.0-windows\voter 7a.vbproj.GenerateResource.cache
+C:\Users\DELL\source\repos\voter 7a\obj\Debug\net8.0-windows\voter 7a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\voter 7a\obj\Debug\net8.0-windows\voter 7a.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\voter 7a\obj\Debug\net8.0-windows\voter 7a.AssemblyInfo.vb
+C:\Users\DELL\source\repos\voter 7a\obj\Debug\net8.0-windows\voter 7a.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\voter 7a\obj\Debug\net8.0-windows\voter 7a.dll
+C:\Users\DELL\source\repos\voter 7a\obj\Debug\net8.0-windows\refint\voter 7a.dll
+C:\Users\DELL\source\repos\voter 7a\obj\Debug\net8.0-windows\voter 7a.pdb
+C:\Users\DELL\source\repos\voter 7a\obj\Debug\net8.0-windows\voter 7a.genruntimeconfig.cache
+C:\Users\DELL\source\repos\voter 7a\obj\Debug\net8.0-windows\ref\voter 7a.dll
+C:\Users\badvi\source\repos\voter 7a\voter 7a\bin\Debug\net8.0-windows\voter 7a.exe
+C:\Users\badvi\source\repos\voter 7a\voter 7a\bin\Debug\net8.0-windows\voter 7a.deps.json
+C:\Users\badvi\source\repos\voter 7a\voter 7a\bin\Debug\net8.0-windows\voter 7a.runtimeconfig.json
+C:\Users\badvi\source\repos\voter 7a\voter 7a\bin\Debug\net8.0-windows\voter 7a.dll
+C:\Users\badvi\source\repos\voter 7a\voter 7a\bin\Debug\net8.0-windows\voter 7a.pdb
+C:\Users\badvi\source\repos\voter 7a\voter 7a\obj\Debug\net8.0-windows\voter_7a.Form1.resources
+C:\Users\badvi\source\repos\voter 7a\voter 7a\obj\Debug\net8.0-windows\voter 7a.vbproj.GenerateResource.cache
+C:\Users\badvi\source\repos\voter 7a\voter 7a\obj\Debug\net8.0-windows\voter 7a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badvi\source\repos\voter 7a\voter 7a\obj\Debug\net8.0-windows\voter 7a.AssemblyInfoInputs.cache
+C:\Users\badvi\source\repos\voter 7a\voter 7a\obj\Debug\net8.0-windows\voter 7a.AssemblyInfo.vb
+C:\Users\badvi\source\repos\voter 7a\voter 7a\obj\Debug\net8.0-windows\voter 7a.vbproj.CoreCompileInputs.cache
+C:\Users\badvi\source\repos\voter 7a\voter 7a\obj\Debug\net8.0-windows\voter 7a.dll
+C:\Users\badvi\source\repos\voter 7a\voter 7a\obj\Debug\net8.0-windows\refint\voter 7a.dll
+C:\Users\badvi\source\repos\voter 7a\voter 7a\obj\Debug\net8.0-windows\voter 7a.pdb
+C:\Users\badvi\source\repos\voter 7a\voter 7a\obj\Debug\net8.0-windows\voter 7a.genruntimeconfig.cache
+C:\Users\badvi\source\repos\voter 7a\voter 7a\obj\Debug\net8.0-windows\ref\voter 7a.dll
+C:\Users\badvi\source\repos\voter 7a\bin\Debug\net8.0-windows\voter 7a.exe
+C:\Users\badvi\source\repos\voter 7a\bin\Debug\net8.0-windows\voter 7a.deps.json
+C:\Users\badvi\source\repos\voter 7a\bin\Debug\net8.0-windows\voter 7a.runtimeconfig.json
+C:\Users\badvi\source\repos\voter 7a\bin\Debug\net8.0-windows\voter 7a.dll
+C:\Users\badvi\source\repos\voter 7a\bin\Debug\net8.0-windows\voter 7a.pdb
+C:\Users\badvi\source\repos\voter 7a\obj\Debug\net8.0-windows\voter_7a.Form1.resources
+C:\Users\badvi\source\repos\voter 7a\obj\Debug\net8.0-windows\voter 7a.vbproj.GenerateResource.cache
+C:\Users\badvi\source\repos\voter 7a\obj\Debug\net8.0-windows\voter 7a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badvi\source\repos\voter 7a\obj\Debug\net8.0-windows\voter 7a.AssemblyInfoInputs.cache
+C:\Users\badvi\source\repos\voter 7a\obj\Debug\net8.0-windows\voter 7a.AssemblyInfo.vb
+C:\Users\badvi\source\repos\voter 7a\obj\Debug\net8.0-windows\voter 7a.vbproj.CoreCompileInputs.cache
+C:\Users\badvi\source\repos\voter 7a\obj\Debug\net8.0-windows\voter 7a.dll
+C:\Users\badvi\source\repos\voter 7a\obj\Debug\net8.0-windows\refint\voter 7a.dll
+C:\Users\badvi\source\repos\voter 7a\obj\Debug\net8.0-windows\voter 7a.pdb
+C:\Users\badvi\source\repos\voter 7a\obj\Debug\net8.0-windows\voter 7a.genruntimeconfig.cache
+C:\Users\badvi\source\repos\voter 7a\obj\Debug\net8.0-windows\ref\voter 7a.dll
